@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://boiling-everglades-36647.herokuapp.com/",
+  "change_calculator": "https://cc-changecalc.herokuapp.com/",
+  "mortgage_calculator": "https://mc-mortgagecalc.herokuapp.com/",
+  "top_spots": "https://sdts-sdtopspots.herokuapp.com/",
+  "vstda": "https://vsdta-verysimpletodoapp.herokuapp.com/"
 }
